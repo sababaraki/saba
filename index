@@ -1,5 +1,8 @@
 <html>
 <head>
+    <style>
+        p{background-color: blanchedalmond;}
+    </style>
 </head>
 <body>
 <p>sallam</p>
